@@ -10,3 +10,4 @@ build/
 .venv/
 .python-version
 .vscode
+auth_config.json
